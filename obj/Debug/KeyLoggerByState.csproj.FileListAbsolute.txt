@@ -1,0 +1,6 @@
+E:\Learning Record\CSharp\KeyLoggerByState\bin\Debug\KeyLoggerByState.exe
+E:\Learning Record\CSharp\KeyLoggerByState\bin\Debug\KeyLoggerByState.pdb
+E:\Learning Record\CSharp\KeyLoggerByState\obj\Debug\KeyLoggerByState.csprojAssemblyReference.cache
+E:\Learning Record\CSharp\KeyLoggerByState\obj\Debug\KeyLoggerByState.csproj.CoreCompileInputs.cache
+E:\Learning Record\CSharp\KeyLoggerByState\obj\Debug\KeyLoggerByState.exe
+E:\Learning Record\CSharp\KeyLoggerByState\obj\Debug\KeyLoggerByState.pdb
